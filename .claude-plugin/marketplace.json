@@ -1,0 +1,15 @@
+{
+  "name": "chen-tools",
+  "owner": {
+    "name": "Bowen Chen"
+  },
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "chen-daily-logistics",
+      "source": "./chen-daily-logistics",
+      "description": "每日物流行业资讯精选，输出卡片式可视化 HTML 页面",
+      "version": "1.0.0"
+    }
+  ]
+}

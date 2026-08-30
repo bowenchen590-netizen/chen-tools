@@ -1,0 +1,10 @@
+{
+  "name": "chen-daily-logistics",
+  "displayName": "Chen daily 物流",
+  "description": "每日物流行业资讯精选：抓取权威国际与中国物流媒体过去 24 小时的重要新闻，智能过滤后生成中文精华摘要与关键词标签，渲染为卡片式可视化 HTML 页面。",
+  "version": "1.0.0",
+  "author": {
+    "name": "Bowen Chen"
+  },
+  "license": "MIT"
+}
